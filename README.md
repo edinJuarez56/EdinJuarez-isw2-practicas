@@ -1,1 +1,2 @@
-# EdinJuarez-isw2-practicas
+## Índice
+- [Práctica 1](./practica-1)
